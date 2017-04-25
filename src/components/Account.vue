@@ -3,7 +3,6 @@
 </template>
 
 <script>
-import 'meteor-client'
 import { Blaze } from 'meteor/blaze'
 import { Template } from 'meteor/templating'
 

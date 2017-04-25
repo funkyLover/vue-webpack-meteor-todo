@@ -3,7 +3,6 @@
 import Vue from 'vue'
 import App from './App'
 import 'api/tasks'
-import 'meteor-client'
 
 import { Meteor } from 'meteor/meteor'
 

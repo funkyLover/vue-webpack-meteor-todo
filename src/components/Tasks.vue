@@ -16,7 +16,6 @@
 </template>
 
 <script>
-import 'meteor-client'
 import { Meteor } from 'meteor/meteor'
 
 export default {
